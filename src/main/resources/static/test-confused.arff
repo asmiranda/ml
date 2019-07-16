@@ -1,0 +1,10 @@
+@relation icecreamsales.symbolic
+
+@attribute temperatue numeric
+@attribute icecreamsales numeric
+
+@data
+
+14.2    ?
+16.4    ?
+11.9    ?
